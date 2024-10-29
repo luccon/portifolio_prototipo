@@ -76,21 +76,12 @@ body {
     background-color: lightgray;
     font-family: roboto;
 }
-.agilidade {
-    font-size: 20px;
-}
-.produtividade {
-    font-size: 18px;
-}
-.foco {
-    font-size: 16px;
-}
 .formacao {
     width: 30%;
 }
 li {
-    font-size: 18px;
+    font-size: 70%;
 }
 section {
-    font-size: 24px;
+    font-size: 100%;
 }
